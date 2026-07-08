@@ -1,8 +1,9 @@
-flask
-flask-sqlalchemy
-flask-migrate
-flask-jwt-extended
-flask-cors
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-JWT-Extended
+Flask-Cors
 psycopg2-binary
 python-dotenv
 google-generativeai
+gunicorn
