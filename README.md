@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SocialConnect: Full-Stack Social Media Platform
 
 ## Project Overview
@@ -36,3 +37,7 @@ SocialConnect is a full-stack social media platform designed to facilitate user 
 - [ ] Implement real-time functionalities (if applicable/requested).
 - [ ] Add caching / rate-limiting.
 - [ ] Polish UI transitions, loading states, error boundaries.
+=======
+# SOCIAL-CONNECT
+SOCIAL-CONNECT
+>>>>>>> 1580a83e16cd9c082bbdb8cf4cbad02487902454
